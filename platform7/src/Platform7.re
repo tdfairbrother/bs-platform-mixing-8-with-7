@@ -1,0 +1,1 @@
+let a = "I'm platform 7";

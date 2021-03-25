@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bs-platform": "^7.3.2"
+  },
+  "name": "platform7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
